@@ -13,7 +13,7 @@ This offline tool is not supported and is provided for informational purposes on
 '
 '''
 
-neogeo:Documents treguly$ ./shellshock_test.py 
+
 usage: shellshock_test.py [-h] [--path [PATH]] [--paths [PATHS]]
                           [--target [TARGET]] [--targets [TARGETS]]
                           [--spider [SPIDER]] [--url [URL]] [--log [LOG]]
